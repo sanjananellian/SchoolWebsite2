@@ -1,0 +1,10 @@
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index:99999;
+   
+  }
+Body {
+background:linear-gradient( #e0ceff 0% ,#c4b0e9 100%);;
+
+}
